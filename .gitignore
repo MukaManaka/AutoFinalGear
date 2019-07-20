@@ -121,3 +121,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.ipynb
+
+screenshot
+Btest
+picref
+Stest
